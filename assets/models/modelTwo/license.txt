@@ -1,0 +1,11 @@
+Model Information:
+* title:	Thor 8 character
+* source:	https://sketchfab.com/3d-models/thor-8-character-99dcab3bdcc44b75b348622c0a0c383d
+* author:	neilnyinyi1997 (https://sketchfab.com/neilnyinyi1997)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Thor 8 character" (https://sketchfab.com/3d-models/thor-8-character-99dcab3bdcc44b75b348622c0a0c383d) by neilnyinyi1997 (https://sketchfab.com/neilnyinyi1997) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

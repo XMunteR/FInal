@@ -1,0 +1,575 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 1573,
+      "max": [
+        0.03630223870277405,
+        0.040351200848817825,
+        0.7734119892120361
+      ],
+      "min": [
+        -0.03630135953426361,
+        -0.05000200495123863,
+        0.6574360132217407
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 18876,
+      "componentType": 5126,
+      "count": 1573,
+      "max": [
+        0.998218297958374,
+        0.999671995639801,
+        0.9967547059059143
+      ],
+      "min": [
+        -0.998218297958374,
+        -0.9999570250511169,
+        -0.999915599822998
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 1573,
+      "max": [
+        0.9894160032272339,
+        1.9912430047988892
+      ],
+      "min": [
+        0.005565609782934189,
+        1.0070456266403198
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 4872,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 37752,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        -0.1570340096950531,
+        0.10789920389652252,
+        0.5722119808197021
+      ],
+      "min": [
+        -0.3105984032154083,
+        -0.1351076066493988,
+        0.37301480770111084
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 38712,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        0.9969132542610168,
+        0.8469289541244507,
+        0.9938023090362549
+      ],
+      "min": [
+        -0.9810730814933777,
+        -0.899806797504425,
+        -0.9952012300491333
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 12584,
+      "componentType": 5126,
+      "count": 80,
+      "max": [
+        0.989853024482727,
+        1.9908509254455566
+      ],
+      "min": [
+        0.011907899752259254,
+        1.0120888948440552
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 19488,
+      "componentType": 5125,
+      "count": 336,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 39672,
+      "componentType": 5126,
+      "count": 2311,
+      "max": [
+        0.2642376124858856,
+        0.07373999804258347,
+        0.6971920132637024
+      ],
+      "min": [
+        -0.2642376124858856,
+        -0.060482800006866455,
+        0.3938663899898529
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 67404,
+      "componentType": 5126,
+      "count": 2311,
+      "max": [
+        0.9993972182273865,
+        0.999441385269165,
+        0.9934442043304443
+      ],
+      "min": [
+        -0.999396026134491,
+        -0.9999486207962036,
+        -0.988922655582428
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 13224,
+      "componentType": 5126,
+      "count": 2311,
+      "max": [
+        0.9951009750366211,
+        1.9962470531463623
+      ],
+      "min": [
+        0.008357790298759937,
+        1.0041080713272095
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 20832,
+      "componentType": 5125,
+      "count": 7218,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 95136,
+      "componentType": 5126,
+      "count": 2141,
+      "max": [
+        0.09359840303659439,
+        0.06123640015721321,
+        0.4857880175113678
+      ],
+      "min": [
+        -0.09359880536794662,
+        -0.08432640135288239,
+        0.01520732045173645
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 120828,
+      "componentType": 5126,
+      "count": 2141,
+      "max": [
+        1.0,
+        0.9987795948982239,
+        0.9999999403953552
+      ],
+      "min": [
+        -1.0,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 31712,
+      "componentType": 5126,
+      "count": 2141,
+      "max": [
+        0.9958930015563965,
+        1.9920930862426758
+      ],
+      "min": [
+        0.005353809799998999,
+        1.0075732469558716
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 49704,
+      "componentType": 5125,
+      "count": 6702,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Yash Tyagi (https://sketchfab.com/yash_tyagi)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/captain-america-endgame-f21517141bd841ccb2d5441b04b6b383",
+      "title": "Captain America Endgame"
+    },
+    "generator": "Sketchfab-11.71.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 76512,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48840,
+      "byteOffset": 76512,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 146520,
+      "byteOffset": 125352,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 271872,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "images": [
+    {
+      "uri": "textures/40_herocaptainAmericaS073_1_0_0.001_diffuse.png"
+    },
+    {
+      "uri": "textures/40_-CaptainamericaCivilWarWP.CaptainamericaCivilWarWP_1_0_0.001_diffuse.png"
+    },
+    {
+      "uri": "textures/40_herocaptainAmericaS071_1_0_0.001_diffuse.png"
+    },
+    {
+      "uri": "textures/40_herocaptainAmericaS072_1_0_0.001_diffuse.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 0
+          },
+          "glossinessFactor": 0.19595917942265426,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "40_herocaptainAmericaS073_1_0_0.001"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 1
+          },
+          "glossinessFactor": 0.19595917942265426,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "40_-CaptainamericaCivilWarWP.CaptainamericaCivilWarWP_1_0_0.001"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 2
+          },
+          "glossinessFactor": 0.0,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "40_herocaptainAmericaS071_1_0_0.001"
+    },
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "diffuseTexture": {
+            "index": 3
+          },
+          "glossinessFactor": 0.19595917942265426,
+          "specularFactor": [
+            0.0,
+            0.0,
+            0.0
+          ]
+        }
+      },
+      "name": "40_herocaptainAmericaS072_1_0_0.001"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "40_herocaptainAmericaS073_1_0_0_40_herocaptainAmericaS073_1_0_0.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "40_herocaptainAmericaS073_1_0_0_40_-CaptainamericaCivilWarWP.CaptainamericaCivilWarWP_1_0_0.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "40_herocaptainAmericaS073_1_0_0_40_herocaptainAmericaS071_1_0_0.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "40_herocaptainAmericaS073_1_0_0_40_herocaptainAmericaS072_1_0_0.001_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Captain America Endgame.fbx"
+    },
+    {
+      "children": [
+        3
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4,
+        5,
+        6,
+        7
+      ],
+      "matrix": [
+        100.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        -1.629206793918314e-05,
+        -99.99999999999868,
+        0.0,
+        0.0,
+        99.99999999999868,
+        -1.629206793918314e-05,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "40_herocaptainAmericaS073_1_0_0"
+    },
+    {
+      "mesh": 0,
+      "name": "40_herocaptainAmericaS073_1_0_0_40_herocaptainAmericaS073_1_0_0.001_0"
+    },
+    {
+      "mesh": 1,
+      "name": "40_herocaptainAmericaS073_1_0_0_40_-CaptainamericaCivilWarWP.CaptainamericaCivilWarWP_1_0_0.001_0"
+    },
+    {
+      "mesh": 2,
+      "name": "40_herocaptainAmericaS073_1_0_0_40_herocaptainAmericaS071_1_0_0.001_0"
+    },
+    {
+      "mesh": 3,
+      "name": "40_herocaptainAmericaS073_1_0_0_40_herocaptainAmericaS072_1_0_0.001_0"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "sampler": 0,
+      "source": 3
+    }
+  ]
+}

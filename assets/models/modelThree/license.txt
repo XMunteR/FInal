@@ -1,0 +1,11 @@
+Model Information:
+* title:	Captain America Endgame
+* source:	https://sketchfab.com/3d-models/captain-america-endgame-f21517141bd841ccb2d5441b04b6b383
+* author:	Yash Tyagi (https://sketchfab.com/yash_tyagi)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Captain America Endgame" (https://sketchfab.com/3d-models/captain-america-endgame-f21517141bd841ccb2d5441b04b6b383) by Yash Tyagi (https://sketchfab.com/yash_tyagi) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
